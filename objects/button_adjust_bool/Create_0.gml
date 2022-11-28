@@ -1,0 +1,1 @@
+#macro mAPPEAR_CENTER mean(x - (appear_width / 2), x + (appear_width / 2)), mean(y - (appear_height / 2), y + (appear_height / 2))

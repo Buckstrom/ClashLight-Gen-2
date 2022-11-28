@@ -1,0 +1,6 @@
+lured
+soaked
+stunned
+jumped
+unlured
+marked
